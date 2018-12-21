@@ -8,9 +8,17 @@ With the app you can:
 
 Share articles via email
 
+<H2>Screen Shot</H2> 
 
-You can reach us at:
+
+(http://github.com/Aidnac/XYZReader/blob/master/Screenshot_detail.png "Optional title")
+
+
+
+<H3>You can reach us at:</H3>
+
 Mobile: +256704314808
+
 E-mail: calex@can-a.technology
 
 copyright 1994 - 2018 XYZ Reader corparation.All Rights reserves.
