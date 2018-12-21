@@ -10,9 +10,7 @@ Share articles via email
 
 <H2>Screen Shot</H2> 
 
-
-(http://github.com/Aidnac/XYZReader/blob/master/Screenshot_detail.png "Optional title")
-
+![alt text](https://github.com/Aidnac/XYZReader/blob/master/Screenshot_detail.png "Logo Detail Activity Screen Shot")
 
 
 <H3>You can reach us at:</H3>
